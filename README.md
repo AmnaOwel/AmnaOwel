@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amna Owel
-- Data Scientist,
-- Deep learning lover, I'm interesting in python
- I love solving real world problems with the power of AI
+- Data Scientist.
+Deep learning enthusiast. I'm interested in Python and love solving real-world problems with the power of AI.
 
 <!---
 AmnaOwel/AmnaOwel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
